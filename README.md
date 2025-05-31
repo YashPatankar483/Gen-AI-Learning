@@ -1,2 +1,2 @@
-# DSA-Practice
-This repo contains all the coding problem solutions and their resources if any.
+# Gen-AI-Learning
+This repo contains my Learning about Genrative AI.
